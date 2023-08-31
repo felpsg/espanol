@@ -1824,3 +1824,7 @@ blockquote::before {
   background-color: #000;
   color: #ffffff !important;
 }
+
+.download-links{
+  margin: 20px 0 !important;
+}
